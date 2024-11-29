@@ -1,4 +1,4 @@
-### Welcome to the Kernel Logs 🖥️
+![Divider]()
 Tinkerer | System Optimizer | Curious Mind
 
 ### 🌟 Boot Sequence: The Beginning
