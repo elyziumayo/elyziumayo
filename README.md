@@ -1,12 +1,12 @@
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/1.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/1.png)
 Tinkerer | System Optimizer | Curious Mind
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/2.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/2.png)
 Every system has its boot process—mine started with a quest to revive an old PC. This humble start led me to the world of system optimizations, exploring Linux distributions, and experimenting with hardware-software interplay.
 
 Today, I’m driven by a fascination for how systems work at their core, seeking to improve and innovate wherever possible.
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/3.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/3.png)
 Here’s what powers my experiments:
 
 - Core Modules:
