@@ -21,10 +21,10 @@ RAID 0 setups to push storage boundaries.
 Exploring microcontrollers to bridge software and hardware.
 Current Exploration: Processor designs and how architectures shape modern systems.
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/4.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/4.png)
 From building a home server to managing a music library, my focus has always been on improving efficiency and reliability. Along the way, I’ve developed scripts, configured custom setups, and delved into the underlying principles of system operations.
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/5.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/5.png)
 Running Processes:
 Artix OS Tweaks: Streamlining my environment for optimal performance.
 Storage Innovation: Experimenting with RAID configurations to enhance speed and redundancy.
@@ -34,18 +34,18 @@ Diving deeper into embedded systems design.
 Exploring the intricacies of processor efficiency and architecture.
 Crafting tools to simplify complex workflows.
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/6.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/6.png)
 Systems—whether hardware or software—fascinate me because of how they interact, communicate, and optimize. My projects have taught me to appreciate the elegance of design, whether it’s in streamlining code or understanding the logic of circuit design.
 
 I thrive at the intersection of innovation, problem-solving, and precision, constantly seeking ways to bridge ideas with execution.
 
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/7.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/7.png)
 Preferred Workflow: Minimalist setups with maximum efficiency.
 When Idle: Reading open-source forums, curating my music library, and optimizing processes.
 Philosophy: "Optimization isn’t just about performance—it’s about clarity and purpose."
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/8.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/8.png)
 GitHub: You’re already here—explore my repositories!
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/9.png)
