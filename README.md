@@ -48,5 +48,5 @@ Philosophy: "Optimization isn’t just about performance—it’s about clarity 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/8.gif)
 GitHub: You’re already here—explore my repositories!
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/9.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/9.png)
 I joined GitHub more recently, but this is not the first time I’ve shared my work. Earlier, I had a profile where I uploaded my projects, but I’ve since moved away from Google-based services (de-Google-ing) and had to remove that account. This new profile reflects my continued journey, and the projects here were previously stored in my old repositories. That’s why most of these were uploaded recently—just a fresh start with the same projects and more to come
