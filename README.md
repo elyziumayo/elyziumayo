@@ -27,13 +27,14 @@ From building a home server to managing a music library, my focus has always bee
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/5.png)
 - Running Processes:
-          - Artix OS Tweaks: Streamlining my environment for optimal            performance.
+
+           - Artix OS Tweaks: Streamlining my environment for optimal            performance.
           - Storage Innovation: Experimenting with RAID configurations to enhance speed and redundancy.
           - Microcontroller Programming: Bridging the gap between hardware and software.
           - Queued Tasks:
-Diving deeper into embedded systems design.
-Exploring the intricacies of processor efficiency and architecture.
-Crafting tools to simplify complex workflows.
+          Diving deeper into embedded systems design.
+          Exploring the intricacies of processor efficiency and architecture.
+           Crafting tools to simplify complex workflows.
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/6.png)
 Systems—whether hardware or software—fascinate me because of how they interact, communicate, and optimize. My projects have taught me to appreciate the elegance of design, whether it’s in streamlining code or understanding the logic of circuit design.
