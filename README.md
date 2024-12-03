@@ -26,11 +26,11 @@ Current Exploration: Processor designs and how architectures shape modern system
 From building a home server to managing a music library, my focus has always been on improving efficiency and reliability. Along the way, I’ve developed scripts, configured custom setups, and delved into the underlying principles of system operations.
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/5.png)
-Running Processes:
-Artix OS Tweaks: Streamlining my environment for optimal performance.
-Storage Innovation: Experimenting with RAID configurations to enhance speed and redundancy.
-Microcontroller Programming: Bridging the gap between hardware and software.
-Queued Tasks:
+- Running Processes:
+          - Artix OS Tweaks: Streamlining my environment for optimal            performance.
+          - Storage Innovation: Experimenting with RAID configurations to enhance speed and redundancy.
+          - Microcontroller Programming: Bridging the gap between hardware and software.
+          - Queued Tasks:
 Diving deeper into embedded systems design.
 Exploring the intricacies of processor efficiency and architecture.
 Crafting tools to simplify complex workflows.
