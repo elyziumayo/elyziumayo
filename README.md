@@ -5,7 +5,7 @@
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/2.png)
 - Every system has its boot process—mine started with a quest to revive an old PC. This humble start led me to the world of system optimizations, exploring Linux distributions, and experimenting with hardware-software interplay.
 
-Today, I’m driven by a fascination for how systems work at their core, seeking to improve and innovate wherever possible.
+- Today, I’m driven by a fascination for how systems work at their core, seeking to improve and innovate wherever possible.
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/3.png)
 Here’s what powers my experiments:
@@ -41,7 +41,7 @@ Current Exploration: Processor designs and how architectures shape modern system
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/6.png)
 - Systems—whether hardware or software—fascinate me because of how they interact, communicate, and optimize. My projects have taught me to appreciate the elegance of design, whether it’s in streamlining code or understanding the logic of circuit design.
 
-I thrive at the intersection of innovation, problem-solving, and precision, constantly seeking ways to bridge ideas with execution.
+- I thrive at the intersection of innovation, problem-solving, and precision, constantly seeking ways to bridge ideas with execution.
 
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/7.png)
