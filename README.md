@@ -46,8 +46,10 @@ Current Exploration: Processor designs and how architectures shape modern system
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/asset/7.png)
 - Preferred Workflow: Minimalist setups with maximum efficiency.
-When Idle: Reading open-source forums, curating my music library, and optimizing processes.
-Philosophy: "Optimization isn’t just about performance—it’s about clarity and purpose."
+
+- When Idle: Reading open-source forums, curating my music library, and optimizing processes.
+
+- Philosophy: "Optimization isn’t just about performance—it’s about clarity and purpose."
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/asset/8.png)
 - GitHub: You’re already here—explore my repositories!
