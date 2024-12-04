@@ -1,4 +1,4 @@
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/48d7029dd4bf7424f20cc7dbca486df067c911e0/asset/Elysiumayo_20241204_101856_0003.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/9662835a6974f7b237c61ce947e592d8668d2d55/asset/Elysiumayo_20241204_102628_0004.gif)
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/asset/1.png)
 - Tinkerer | System Optimizer | Curious Mind
 
