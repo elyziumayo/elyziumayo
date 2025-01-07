@@ -1,4 +1,4 @@
-![](https://github.com/elysiumayo/elysiumayo/blob/ca0933b5bbafdc35ba7ccfce9cc64454431e1a05/asset/Kernal%20log_20250107_161146_0000.png)
+
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/b17e87dd387a7036ca60c57feecbdc97f8d184a2/asset/stayalive.gif)
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/asset/1.png)
