@@ -2,7 +2,7 @@
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/b17e87dd387a7036ca60c57feecbdc97f8d184a2/asset/stayalive.gif)
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/asset/1.png)
-- Tinkerer | System Optimizer | Curious Mind
+- Tinkerer | System Optimizer 
 
 ![Divider](https://github.com/elysiumayo/elysiumayo/blob/main/asset/2.png)
 - Every system has its boot process—mine started with a quest to revive an old PC. This humble start led me to the world of system optimizations, exploring Linux distributions, and experimenting with hardware-software interplay.
