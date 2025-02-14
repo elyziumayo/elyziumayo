@@ -68,7 +68,6 @@ declare -A experiments=(
 
 # System Vitals
 coffee_cups=∞
-bugs_squashed=42
 sanity_level="undefined"
 last_sleep="404 Not Found"
 ```
