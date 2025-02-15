@@ -65,7 +65,6 @@ declare -A experiments=(
 │ Microcontroller Magic  → Tiny computers, big dreams│
 │ Kernel Whispering      → sudo make me_faster       │
 └─────────────────────────────────┘
-
 # System Vitals
 coffee_cups=∞
 sanity_level="undefined"
