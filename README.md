@@ -60,11 +60,12 @@ declare -A experiments=(
 └─────────────────────────────────────┘
 
 # Experimental Labs [/etc/experiments]
-┌─────────────────────────────────┐
-│ RAID Adventures        → HDDs in perfect harmony   │
-│ Microcontroller Magic  → Tiny computers, big dreams│
-│ Kernel Whispering      → sudo make me_faster       │
-└─────────────────────────────────┘
+-RAID Adventures
+             └─HDDs in perfect harmony  
+-Microcontroller Magic
+             └─Tiny computers, big dreams
+-Kernel Whispering
+             └─sudo make me_faster       
 # System Vitals
 coffee_cups=∞
 sanity_level="undefined"
