@@ -106,14 +106,14 @@ Cool Experiments  → "It works on my machine" ¯\_(ツ)_/¯
 
 ```txt
 OS
-└─Arch
-     ├─WM     → Hyprland
-     ├─Shell  → Zsh
-     ├─Term   → Kitty
-     ├─Editor → Neovim
-     ├─Mux    → Tmux
-     ├─Font   → JetBrains Mono
-     └─Theme  → Tokyo Night
+└Arch
+  ├─WM     → Hyprland
+  ├─Shell  → Zsh
+  ├─Term   → Kitty
+  ├─Editor → Neovim
+  ├─Mux    → Tmux
+  ├─Font   → JetBrains Mono
+  └─Theme  → Tokyo Night
 ```
 
 ## 💫 Code Philosophy
