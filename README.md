@@ -4,8 +4,10 @@
 ## ⚡ Tech Arsenal
 
 <div align="center">
+  <br>
   <img src="https://skillicons.dev/icons?i=arch,bash,vim,git,github,linux,neovim&perline=7" />
-  <br><br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=mint,html,css&perline=3" />
 </div>
 
 ## 🛠️ System Labs
