@@ -143,5 +143,6 @@ Theme    Tokyo Night
 ```
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elysiumayo&theme=nord_dark" alt="Resumen" />
   <h6>Made with ⚡ and way too much ☕</h6>
 </div>
