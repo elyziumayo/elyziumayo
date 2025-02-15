@@ -85,21 +85,21 @@ last_sleep="404 Not Found"
 ```txt
 🎯 Epic Quests
 ---------------
-Speed Up Systems     → Teaching PCs to naruto run
-Save Resources      → Marie Kondo for your RAM
-Automate Tasks      → Because I'm too lazy to repeat stuff
+Speed Up Systems  → Teaching PCs to naruto run
+Save Resources    → Marie Kondo for your RAM
+Automate Tasks    → Because I'm too lazy to repeat stuff
 
 🔧 Building Cool Stuff
 ---------------
-Custom Setups       → Custom Solutions    → Crafted with precision and care
-Smart Workflows     → Work smarter, not harder™
-Better Tools        → Digital Swiss Army knives
+Custom Setups     → Custom Solutions 
+Smart Workflows   → Work smarter, not harder™
+Better Tools      → Digital Swiss Army knives
 
 📚 Learning Adventures
 ---------------
-New Tech            → Because old tech is so 2022
-Better Methods      → Finding better ways to find better ways
-Cool Experiments    → "It works on my machine" ¯\_(ツ)_/¯
+New Tech          → Because old tech is so 2022
+Better Methods    → Finding better ways to find better ways
+Cool Experiments  → "It works on my machine" ¯\_(ツ)_/¯
 ```
 ## ⚡ System Canvas
 
