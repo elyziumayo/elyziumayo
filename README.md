@@ -68,7 +68,6 @@ declare -A experiments=(
              └─sudo make me_faster       
 # System Vitals
 coffee_cups=∞
-sanity_level="undefined"
 last_sleep="404 Not Found"
 ```
 
