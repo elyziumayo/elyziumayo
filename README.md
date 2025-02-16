@@ -95,9 +95,12 @@ Automate Tasks
 
 🔧 Building Cool Stuff
 ---------------
-Custom Setups     → Custom Solutions 
-Smart Workflows   → Work smarter, not harder™
-Better Tools      → Digital Swiss Army knives
+Custom Setups
+           └─Custom Solutions 
+Smart Workflows
+           └─Work smarter, not harder™
+Better Tools
+           └─Digital Swiss Army knives
 
 📚 Learning Adventures
 ---------------
