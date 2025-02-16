@@ -86,9 +86,12 @@ last_sleep="404 Not Found"
 ```txt
 🎯 Epic Quests
 ---------------
-Speed Up Systems  → Teaching PCs to naruto run
-Save Resources    → Marie Kondo for your RAM
-Automate Tasks    → Because I'm too lazy to repeat stuff
+Speed Up Systems
+           └─Teaching PCs to sleep run
+Save Resources
+           └─Marie Kondo for your RAM
+Automate Tasks
+           └─Because I'm too lazy to repeat stuff
 
 🔧 Building Cool Stuff
 ---------------
