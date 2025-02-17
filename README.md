@@ -59,11 +59,14 @@ declare -A experiments=(
 )
 
 # Core Systems [/home/mad-scientist]
-┌─────────────────────────────────────┐
-│ Artix Linux Tweaking   → Because normal Linux is too easy│
-│ Terminal Wizardry      → Making ASCII art do backflips   │
-│ System Optimizatio     → Teaching electrons to sprint    │
-└─────────────────────────────────────┘
+┌──────────────────────────── ───┐
+│ Artix Linux Tweaking                             │
+│               └─Because normal Linux is too easy│
+│ Terminal Wizardry                                │
+│               └─Making ASCII art do backflips   │
+│ System Optimizatio                               │
+│               └─eaching electrons to sprint     │
+└──────────────────────── ───────┘
 
 # Experimental Labs [/etc/experiments]
 -RAID Adventures
