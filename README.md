@@ -7,7 +7,11 @@
   <br>
   <img src="https://skillicons.dev/icons?i=arch,bash,vim,git,github,linux,neovim&perline=7" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mint,html,css&perline=3" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,ollama"
+    />
+  </a>
 </div>
 
 ## 🛠️ System Labs
