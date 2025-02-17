@@ -1,5 +1,5 @@
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/b17e87dd387a7036ca60c57feecbdc97f8d184a2/asset/stayalive.gif)
+![Divider](https://github.com/elysiumayo/elysiumayo/blob/bcedcaa284a0653a8db26b069ce51c836278fbd3/asset/stayalive.png)
 
 ## ⚡ Tech Arsenal
 
