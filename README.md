@@ -1,5 +1,5 @@
 
-![Divider](https://github.com/elysiumayo/elysiumayo/blob/bcedcaa284a0653a8db26b069ce51c836278fbd3/asset/stayalive.png)
+![Divider](https://github.com/elyziumayo/elyziumayo/blob/bcedcaa284a0653a8db26b069ce51c836278fbd3/asset/stayalive.png)
 
 ## ⚡ Tech Arsenal
 
@@ -157,6 +157,6 @@ OS
 ```
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elysiumayo&theme=nord_dark" alt="Resumen" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elyziumayo&theme=nord_dark" alt="Resumen" />
   <h6>Made with ⚡ and way too much ☕</h6>
 </div>
