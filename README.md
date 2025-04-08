@@ -1,5 +1,5 @@
 
-![Divider](https://github.com/elyziumayo/elyziumayo/blob/0152375bf1532c2c159b6453de70ed6f5b70d440/Assets/stay.png)
+![banner](https://github.com/elyziumayo/elyziumayo/blob/7eaa1a6bf28cbc769362b72e665f9d6871f392c7/Assets/stay.png)
 
 ## ⚡ Tech Arsenal
 
