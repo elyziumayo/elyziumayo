@@ -67,29 +67,12 @@ last_sleep="404 Not Found"
 ## 🔮 Mission Control
 > Houston, we have a solution! 🚀
 ```txt
-🎯 Epic Quests
----------------
-Speed Up Systems
-           └─Teaching PCs to sleep run
-Save Resources
-           └─Marie Kondo for your RAM
-Automate Tasks
-           └─Because I'm too lazy to repeat stuff
 
-🔧 Building Cool Stuff
----------------
-Custom Setups
-           └─Custom Solutions 
-Smart Workflows
-           └─Work smarter, not harder™
-Better Tools
-           └─Digital Swiss Army knives
+🔧 Building Stuff
+            ├─Because I'm too lazy to repeat stuff 
+            ├─Digital Swiss Army knives
+            └─hmm....
 
-📚 Learning Adventures
----------------
-New Tech          → Because old tech is so 2022
-Better Methods    → Finding better ways to find better ways
-Cool Experiments  → "It works on my machine" ¯\_(ツ)_/¯
 ```
 
 <div align="center">
