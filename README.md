@@ -1,19 +1,6 @@
 
 ![banner](https://github.com/elyziumayo/elyziumayo/blob/7eaa1a6bf28cbc769362b72e665f9d6871f392c7/Assets/stay.png)
 
-## ⚡ Tech Arsenal
-
-<div align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=arch,bash,vim,git,github,linux,neovim&perline=7" />
-  <br>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,ollama,wsl,wireshark,cachyos"
-    />
-  </a>
-</div>
-
 ## 🛠️ System Labs
 > Where bugs fear to tread and CPUs come to get faster 
 ```bash
