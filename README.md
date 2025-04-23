@@ -53,6 +53,7 @@ last_sleep="404 Not Found"
             └─hmm....
 
 ```
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=elyziumayo&theme=modern-lilac)](https://github.com/elyziumayo/github-readme-activity-graph)
 <div align="center">
   <h6>Made with ⚡ and way too much ☕</h6>
 </div>
