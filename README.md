@@ -54,8 +54,7 @@ last_sleep="404 Not Found"
 
 ```
 
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elyziumayo&theme=nord_dark" alt="Resumen" />
+    <img src="https://streak-stats.demolab.com?user=elyziumayo&theme=tokyonight&hide_border=true" alt="elyziumayo's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api?username=elyziumayo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="elyziumayo's GitHub Stats" />
   <h6>Made with ⚡ and way too much ☕</h6>
 </div>
