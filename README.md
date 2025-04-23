@@ -21,7 +21,6 @@
 ROLE="System Whisperer & Performance Wizard"
 LOCATION="/dev/reality"
 CURRENT_FOCUS="Making computers go brrrr... 🚀"
-
 # Initialization
 function initialize_profile() {
     echo "🔧 Superpowers:"
@@ -29,7 +28,6 @@ function initialize_profile() {
     echo "  ├─ Speaking fluent binary"
     echo "  └─ Making slow computers cry"
 }
-
 initialize_profile
 ```
 
