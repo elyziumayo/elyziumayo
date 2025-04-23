@@ -37,21 +37,14 @@ declare -A experiments=(
 -Microcontroller Magic
              └─Tiny computers, big dreams
 -Kernel Whispering
-             └─sudo make me_faster       
+             └─sudo make me_faster
 # System Vitals
 coffee_cups=∞
 last_sleep="404 Not Found"
-```
-
-## 🔮 Mission Control
-> Houston, we have a solution! 🚀
-```txt
-
-🔧 Building Stuff
+Building Stuff
             ├─Because I'm too lazy to repeat stuff 
             ├─Digital Swiss Army knives
             └─hmm....
-
 ```
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=elyziumayo&theme=modern-lilac)
 <div align="center">
