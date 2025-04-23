@@ -54,7 +54,7 @@ last_sleep="404 Not Found"
 
 ```
 
+<img src="https://streak-stats.demolab.com?user=elyziumayo&theme=tokyonight&hide_border=true" alt="elyziumayo's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api?username=elyziumayo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="elyziumayo's GitHub Stats" />
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=elyziumayo&theme=tokyonight&hide_border=true" alt="elyziumayo's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api?username=elyziumayo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="elyziumayo's GitHub Stats" />
   <h6>Made with ⚡ and way too much ☕</h6>
 </div>
