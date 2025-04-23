@@ -42,16 +42,10 @@ declare -A experiments=(
     ["Core"]="/home/mad-scientist"
     ["Labs"]="/etc/experiments"
 )
-
 # Core Systems [/home/mad-scientist]
-
 ® Artix Linux Tweaking                             
-              └─Because normal Linux is too easy
-® Terminal Wizardry                                 
-              └─Making ASCII art do backflips   
-® System Optimizatio                               
-              └─eaching electrons to sprint     
-
+              └─Because normal Linux is too easy                               
+              └─Teaching electrons to sprint     
 # Experimental Labs [/etc/experiments]
 -RAID Adventures
              └─HDDs in perfect harmony  
@@ -74,6 +68,7 @@ last_sleep="404 Not Found"
             └─hmm....
 
 ```
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elyziumayo&theme=nord_dark" alt="Resumen" />
