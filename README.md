@@ -39,7 +39,7 @@ initialize_profile
 ```bash
 # Project Manifesto
 declare -A experiments=(
-    ["Core"]="/home/mad-scientist"
+    ["Core"]="/home/mad-man"
     ["Labs"]="/etc/experiments"
 )
 # Core Systems [/home/mad-scientist]
