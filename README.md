@@ -1,7 +1,7 @@
 
 ![banner](https://github.com/elyziumayo/elyziumayo/blob/7eaa1a6bf28cbc769362b72e665f9d6871f392c7/Assets/stay.png)
 
-## 🛠️ System Labs
+## 🛠️ System Logs
 > Where bugs fear to tread and CPUs come to get faster 
 ```bash
 # System Configuration
