@@ -24,20 +24,23 @@ initialize_profile
 ```bash
 # Project Manifesto
 declare -A experiments=(
-    ["Core"]="/home/mad-man"
+    ["Core"]="/home/bit-bender"
     ["Labs"]="/etc/experiments"
 )
-# Core Systems [/home/mad-scientist]
-® Artix Linux Tweaking                             
-              └─Because normal Linux is too easy                               
-              └─Teaching electrons to sprint     
+# Core Systems [/home/bit-bender]
+bit-bender@artix:~$ tree -L 2
+/home/bit-bender
+├── Artix Linux Tweaking
+      ├── Because normal Linux is too easy  
+      └── Teaching electrons to sprint
 # Experimental Labs [/etc/experiments]
--RAID Adventures
-             └─HDDs in perfect harmony  
--Microcontroller Magic
-             └─Tiny computers, big dreams
--Kernel Whispering
-             └─sudo make me_faster
+/etc/experiments
+├── RAID Adventures
+│   └── Perfect HDD harmony
+├── Microcontroller Magic
+│   └── Small boards, big dreams
+└── Kernel Whispering
+    └── Optimize performance
 # System Vitals
 coffee_cups=∞
 last_sleep="404 Not Found"
