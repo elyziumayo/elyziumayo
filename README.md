@@ -49,5 +49,3 @@ Building Stuff
             ├─Digital Swiss Army knives
             └─hmm....
 ```
-  <h6>Made with ⚡ and way too much ☕</h6>
-</div>
