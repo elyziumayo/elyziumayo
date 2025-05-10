@@ -49,7 +49,5 @@ Building Stuff
             ├─Digital Swiss Army knives
             └─hmm....
 ```
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=elyziumayo&theme=modern-lilac)
-<div align="center">
   <h6>Made with ⚡ and way too much ☕</h6>
 </div>
