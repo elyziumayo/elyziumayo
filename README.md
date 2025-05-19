@@ -44,8 +44,4 @@ bit-bender@artix:~$ tree -L 2
 # System Vitals
 coffee_cups=∞
 last_sleep="404 Not Found"
-Building Stuff
-            ├─Because I'm too lazy to repeat stuff 
-            ├─Digital Swiss Army knives
-            └─hmm....
 ```
