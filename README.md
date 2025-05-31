@@ -5,7 +5,7 @@
 > Where bugs fear to tread and CPUs come to get faster 
 ```bash
 # System Configuration
-ROLE="System Whisperer | Performance Anarchist"
+ROLE="Performance Anarchist"
 LOCATION="/dev/overclocked_reality"
 CURRENT_FOCUS="Forcing electrons to sprint... or combust."
 # Boot Sequence
