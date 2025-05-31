@@ -35,8 +35,6 @@ bit-bender@artix:~$ tree -L 2
       └── Teaching electrons to sprint
 # Experimental Labs [/etc/experiments]
 /etc/experiments
-├── RAID Adventures
-│   └── Perfect HDD harmony
 ├── Microcontroller Magic
 │   └── Small boards, big dreams
 └── Kernel Whispering
