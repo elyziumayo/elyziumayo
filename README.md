@@ -17,29 +17,3 @@ function initialize_profile() {
 }
 initialize_profile
 ```
-
-## 🔐 Secret Lab Notes
-> Access Level: Root | Classification: /dev/null 🤫
-
-```bash
-# Project Manifesto
-declare -A experiments=(
-    ["Core"]="/home/bit-bender"
-    ["Labs"]="/etc/experiments"
-)
-# Core Systems [/home/bit-bender]
-bit-bender@artix:~$ tree -L 2
-/home/bit-bender
-├── Artix Linux Tweaking
-      ├── Because normal Linux is too easy  
-      └── Teaching electrons to sprint
-# Experimental Labs [/etc/experiments]
-/etc/experiments
-├── Microcontroller Magic
-│   └── Small boards, big dreams
-└── Kernel Whispering
-    └── Optimize performance
-# System Vitals
-coffee_cups=∞
-last_sleep="404 Not Found"
-```
