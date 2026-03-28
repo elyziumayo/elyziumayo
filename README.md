@@ -6,8 +6,9 @@
 ```bash
 # System Configuration
 ROLE="Performance Anarchist"
-LOCATION="/dev/overclocked_reality"
-CURRENT_FOCUS="Forcing electrons to sprint... or combust."
+LOCATION="/dev/undervolted_reality"
+CURRENT_FOCUS="Squeezing watts until physics files a complaint."
+
 # Boot Sequence
 function initialize_profile() {
     echo "🔧 Superpowers Armed:"
